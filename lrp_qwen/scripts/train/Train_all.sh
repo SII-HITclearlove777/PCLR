@@ -1,0 +1,12 @@
+bash ./lrp_qwen/scripts/train/1_ScienceQA_1.sh
+bash ./lrp_qwen/scripts/train/2_TextVQA_1.sh
+bash ./lrp_qwen/scripts/train/3_ImageNet_1.sh
+bash ./lrp_qwen/scripts/train/4_GQA_1.sh
+bash ./lrp_qwen/scripts/train/4_GQA_2.sh
+bash ./lrp_qwen/scripts/train/5_VizWiz_1.sh
+bash ./lrp_qwen/scripts/train/5_VizWiz_2.sh
+bash ./lrp_qwen/scripts/train/6_Grounding_1.sh
+bash ./lrp_qwen/scripts/train/6_Grounding_2.sh
+bash ./lrp_qwen/scripts/train/7_VQAv2_1.sh
+bash ./lrp_qwen/scripts/train/7_VQAv2_2.sh
+bash ./lrp_qwen/scripts/train/8_OCRVQA_1.sh
