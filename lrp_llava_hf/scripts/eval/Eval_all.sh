@@ -1,0 +1,31 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/1_eval_ArxivQA.sh ArxivQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/1_ArxivQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/2_eval_GeoChat.sh GeoChat-7b /path/lrp_model_llava_hf/lrp/checkpoints/2_GeoChat_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/3_eval_IconQA.sh IconQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/3_IconQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/4_eval_ClevrMath.sh ClevrMath-7b /path/lrp_model_llava_hf/lrp/checkpoints/4_ClevrMath_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/5_eval_CodeQA.sh CodeQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/5_CodeQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/6_eval_ImageNet.sh ImageNet-7b /path/lrp_model_llava_hf/lrp/checkpoints/6_ImageNet_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/7_eval_Flickr30k.sh Flickr30k-7b /path/lrp_model_llava_hf/lrp/checkpoints/7_Flickr30k_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/8_eval_DocVQA.sh DocVQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/8_DocVQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/9_eval_TextVQA.sh TextVQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/9_TextVQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/10_eval_MathQA.sh MathQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/10_MathQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/11_eval_ChartQA.sh ChartQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/11_ChartQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/12_eval_PathVQA.sh PathVQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/12_PathVQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/13_eval_Grounding.sh Grounding-7b /path/lrp_model_llava_hf/lrp/checkpoints/13_Grounding_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/14_eval_ScienceQA.sh ScienceQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/14_ScienceQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/15_eval_WikiQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+
+
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/1_eval_ArxivQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/2_eval_GeoChat.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/3_eval_IconQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/4_eval_ClevrMath.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/5_eval_CodeQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/6_eval_ImageNet.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/7_eval_Flickr30k.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/8_eval_DocVQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/9_eval_TextVQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/10_eval_MathQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/11_eval_ChartQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/12_eval_PathVQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/13_eval_Grounding.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
+CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./lrp_llava_hf/scripts/eval/14_eval_ScienceQA.sh WikiQA-7b /path/lrp_model_llava_hf/lrp/checkpoints/15_WikiQA_1
