@@ -5,6 +5,7 @@
 1. Harbin Institute of Technology 
 2. Shanghai Innovation Institute 
 3. East China Normal University
+4. Shanghai Key Laboratory of Computer Software Evaluating and Testing
 
 Official Pytorch implementation for ICLR 2026 paper "**PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning**"
 
