@@ -1,6 +1,6 @@
 # **PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning**
 
-**Weicheng Meng,** **Jingyang Qiao,** **Zhizhong Zhang,** **Shaohui Liu†,** **Yuan Xie†**
+**Weicheng Meng<sup>1,2</sup>,** **Jingyang Qiao<sup>2,3</sup>,** **Zhizhong Zhang<sup>3,4</sup>\*,** **Shaohui Liu<sup>1</sup>\*,** **Yuan Xie<sup>2,3</sup>†**
 
 1. Harbin Institute of Technology 
 2. Shanghai Innovation Institute 
