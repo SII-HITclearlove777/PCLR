@@ -188,6 +188,7 @@ This project builds upon the following excellent works:
 - [LLaVA](https://github.com/haotian-liu/LLaVA)
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 - [CoIN](https://github.com/zackschen/CoIN)
+- [Continual-NExT](https://github.com/ECNU-SII/Continual-NExT)
 - [LoRA](https://github.com/microsoft/LoRA)
 
 ## License
