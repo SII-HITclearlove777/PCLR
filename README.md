@@ -1,10 +1,6 @@
 # PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning
 
 <p align="center">
-  <a href="[https://openreview.net/forum?id=PCLR](https://openreview.net/forum?id=WdP1NVSzsz&referrer=%5Bthe%20profile%20of%20Weicheng%20Meng%5D(%2Fprofile%3Fid%3D~Weicheng_Meng1))">
-</p>
-
-<p align="center">
   <b>Weicheng Meng<sup>1,2</sup>, Jingyang Qiao<sup>2,3</sup>, Zhizhong Zhang<sup>3,4*</sup>, Shaohui Liu<sup>1*</sup>, Yuan Xie<sup>2,3&dagger;</sup></b>
 </p>
 
