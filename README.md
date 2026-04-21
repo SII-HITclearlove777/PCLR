@@ -1,9 +1,7 @@
 # PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning
 
 <p align="center">
-  <a href="[https://openreview.net/forum?id=PCLR](https://openreview.net/forum?id=WdP1NVSzsz&referrer=%5Bthe%20profile%20of%20Weicheng%20Meng%5D(%2Fprofile%3Fid%3D~Weicheng_Meng1))"><img src="https://img.shields.io/badge/ICLR-2026-blue" alt="ICLR 2026"></a>
-  <img src="https://img.shields.io/badge/PyTorch-%3E%3D1.13-orange" alt="PyTorch">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-green" alt="License">
+  <a href="[https://openreview.net/forum?id=PCLR](https://openreview.net/forum?id=WdP1NVSzsz&referrer=%5Bthe%20profile%20of%20Weicheng%20Meng%5D(%2Fprofile%3Fid%3D~Weicheng_Meng1))">
 </p>
 
 <p align="center">
