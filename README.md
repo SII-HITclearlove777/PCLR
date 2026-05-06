@@ -1,7 +1,7 @@
 # PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning
 
 <p align="center">
-  <b>Weicheng Meng<sup>1,2</sup>, Jingyang Qiao<sup>2,3</sup>, Zhizhong Zhang<sup>3,4*</sup>, Shaohui Liu<sup>1*</sup>, Yuan Xie<sup>2,3&dagger;</sup></b>
+  <b>Weicheng Meng<sup>1,2</sup>, Jingyang Qiao<sup>2,3</sup>, Shaohui Liu<sup>1,2&dagger</sup>, Zhizhong Zhang<sup>3,4&dagger</sup>, Yuan Xie<sup>2,3&ddagger;</sup></b>
 </p>
 
 <p align="center">
@@ -175,7 +175,7 @@ If you find this work useful, please consider citing:
 ```bibtex
 @inproceedings{meng2026pclr,
   title={PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning},
-  author={Meng, Weicheng and Qiao, Jingyang and Zhang, Zhizhong and Liu, Shaohui and Xie, Yuan},
+  author={Meng, Weicheng and Qiao, Jingyang and Liu, Shaohui and Zhang, Zhizhong and Xie, Yuan},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2026}
 }
