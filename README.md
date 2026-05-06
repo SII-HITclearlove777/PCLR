@@ -1,7 +1,7 @@
 # PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning
 
 <p align="center">
-  <b>Weicheng Meng<sup>1,2</sup>, Jingyang Qiao<sup>2,3</sup>, Shaohui Liu<sup>1,2&dagger</sup>, Zhizhong Zhang<sup>3,4&dagger</sup>, Yuan Xie<sup>2,3&ddagger;</sup></b>
+  <b>Weicheng Meng<sup>1,2</sup>, Jingyang Qiao<sup>2,3</sup>, Shaohui Liu<sup>1,2&dagger;</sup>, Zhizhong Zhang<sup>3,4&dagger;</sup>, Yuan Xie<sup>2,3&ddagger;</sup></b>
 </p>
 
 <p align="center">
